@@ -1,7 +1,7 @@
 ﻿'Kendall Callister
 'Tim Rossiter
 'RCET0265
-'Fall 2020
+'Spring 2021
 'Simple Calculator
 'https://github.com/callkend/Simple-Calculator.git
 
